@@ -852,7 +852,7 @@ a:hover {
 }
 */
 article {
-  padding: 30px 0;
+  padding: 25px 0px 30px 0px;
   position: relative;
 }
 
@@ -923,7 +923,7 @@ article .entry-content .more-link:before {
 }
 
 article .entry-content p,article .entry-content blockquote,article .entry-content ul,article .entry-content ol,article .entry-content dl,article .entry-content table,article .entry-content iframe,article .entry-content h1,article .entry-content h2,article .entry-content h3,article .entry-content h4,article .entry-content h5,article .entry-content h6,article .entry-content .video-container {
-  margin-top: 1.5em;
+  margin-top: 1em;
   margin-bottom: 1.5em;
 }
 
