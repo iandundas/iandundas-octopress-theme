@@ -972,6 +972,10 @@ article .entry-content h2:before {
     font-style: normal;
     color: #777;
   }
+  article .entry-content h1{
+    margin-bottom: 0;
+  }
+
   article.page .entry-content b, article.page .entry-content strong {
     font-family: 'Nunito', Helvetica, sans-serif;
     font-weight: 400;
